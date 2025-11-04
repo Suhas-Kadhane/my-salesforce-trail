@@ -1,4 +1,4 @@
-# 🚀 Salesforce Trailhead Journey
+# 🚀 Salesforce Developer & Trailhead Journey
 
 Hi there! 👋  
 This repository documents my **Salesforce learning journey** — from Trailhead modules to hands-on projects and practice org experiments. My goal is to build a strong foundation in **Salesforce Administration, Development, and Data Management** to transition into a full-time Salesforce professional.
