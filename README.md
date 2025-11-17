@@ -1,4 +1,4 @@
-# 🚀 Salesforce Ecosystem Journey: Admin, Developer, and Beyond
+# 🚀 Salesforce Ecosystem Journey: Admin, Business Analyst, Developer, and Beyond
 
 Hi there! 👋  
 This repository documents my **Salesforce learning journey**, covering everything from Trailhead modules to hands-on projects and practice org experiments.  
